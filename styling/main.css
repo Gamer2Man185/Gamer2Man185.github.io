@@ -7,7 +7,6 @@ body {
 }
 .nav-bar {
     font-size: 24px;
-    display: flex !important;
     margin: 0;
     padding-left: 200px;
     padding-right: 30px;
