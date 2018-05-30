@@ -1,7 +1,12 @@
-body {
-  font-family: Garamond, Sabon, Georgia, serif;
-  text-align: center;
+* {
+    
 }
-h3 {
-  color: orange;
+body {
+    font-family: Garamond, Sabon, Georgia, serif;
+    text-align: center;
+    box-sizing: border-box;
+}
+a {
+    font-size: 12px;
+    margin 0px, 20px, 0px, 20px
 }
